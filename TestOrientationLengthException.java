@@ -22,3 +22,4 @@ public class TestOrientationLengthException {
 		assertEquals("Size error! The size of orientations should be 4 but now it is 3.\n", errContent.toString());
 	}
 }
+ 
